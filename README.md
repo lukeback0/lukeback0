@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lukeback0
-- 👀 I’m interested in net/sec/dev
-- 🌱 I’m currently learning ansible/python/YANG
-- 💞️ I’m looking to collaborate on Automation
-- 📫 How to reach me ... G
+- 👋 Hi, I’m Luke, IT geek with Aquarium.
+- 👀 I’m interested in net/sec/dev 🌱 I’m currently learning ansible/python/YANG
+
+
 
 <!---
 lukeback0/lukeback0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
